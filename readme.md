@@ -219,7 +219,7 @@ docker compose down -v
 
 ## 👨‍💻 Author
 
-**Abhishek Tiwari** – [@yourhandle](https://github.com/yourhandle)
+- Abhishek Tiwari
 
 ---
 
